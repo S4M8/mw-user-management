@@ -2,6 +2,8 @@
 
 Interactive bash scripts for managing Linux users.
 
+![demo.gif](./demo.gif)
+
 ## Features
 
 - List users with status
